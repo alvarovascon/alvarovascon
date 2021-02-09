@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Álvaro A. Vasconcelos
+### Hi, I'm Álvaro!
 
-I'm a brazilian software developer currently studing at Trybe.
+I'm a brazilian software developer currently studying at Trybe.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarovascon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
