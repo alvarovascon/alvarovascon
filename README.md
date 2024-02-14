@@ -1,6 +1,6 @@
 ### Hi, I'm Álvaro!
 
-I'm a passionate Fullstack Developer from Brazil.
+I'm a passionate Developer from Brazil.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarovascon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
